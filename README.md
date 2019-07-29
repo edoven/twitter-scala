@@ -1,2 +1,2 @@
 # twitter-scala
-A simple clone of Twitter in Scala - for learning purposes 
+A simple clone of Twitter in Scala - for learning purposes!
